@@ -66,3 +66,48 @@
     font-size: 24px;
     margin: 10vh 0;
 }
+@media only screen and (min-width: 480px) {
+    .heroText {
+        display: inline-block;
+        text-align: center;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        font-size: 28px;
+        position: absolute;
+        background-color: darkmagenta;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .heroText {
+        display: inline-block;
+        text-align: center;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        font-size: 28px;
+        position: absolute;
+        background-color: lawngreen;
+    }
+  }
+  @media only screen and (min-width: 1024px) {
+    .heroText {
+        display: inline-block;
+        text-align: center;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        font-size: 28px;
+        position: absolute;
+        background-color: darkturquoise;
+    }
+  }
