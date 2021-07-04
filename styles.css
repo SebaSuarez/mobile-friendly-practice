@@ -35,3 +35,18 @@
     left: 0;
     width: 100%;
 }
+.articleDiv {
+    margin: 4vh 12vw;
+}
+
+.articleDiv h2 {
+    font-size: 28px;
+    color: #0c6d78;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+
+.articleDiv p {
+    font-size: 20px;
+}
